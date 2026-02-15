@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e507bc49-f7b6-4a29-a808-ccb3625b28e5" name="Changes" comment="starting">
+    <list default="true" id="e507bc49-f7b6-4a29-a808-ccb3625b28e5" name="Changes" comment="completed">
+      <change afterPath="$PROJECT_DIR$/Test_task12/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_task_13/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_task_13/test_draganddrop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/login_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_task12/dynamic_xpath_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_task12/dynamic_xpath_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +42,9 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="39X22th7SdrmVk9EWsxrK5m3mpG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,6 +53,8 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests for Test_task12.dynamic_xpath_test.test_option1.executor": "Run",
+    "Python tests.Python tests for Test_task_13.test_draganddrop.test_draganddrop.executor": "Run",
     "Python tests.Python tests for login_test.test_browserclose.executor": "Run",
     "Python tests.Python tests for login_test.test_incorrect_login.executor": "Run",
     "Python tests.Python tests for login_test.test_login.executor": "Run",
@@ -66,7 +73,37 @@
       <recent name="C:\Users\HP\PycharmProject\Guvitask11Project" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for login_test.test_incorrect_login">
+  <component name="RunManager" selected="Python tests.Python tests for Test_task_13.test_draganddrop.test_draganddrop">
+    <configuration name="Python tests for Test_task12.dynamic_xpath_test.test_option1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Guvitask11Project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Test_task12.dynamic_xpath_test.test_option1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for Test_task_13.test_draganddrop.test_draganddrop" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Guvitask11Project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Test_task_13.test_draganddrop.test_draganddrop&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests for login_test.test_browserclose" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Guvitask11Project" />
       <option name="ENV_FILES" value="" />
@@ -97,21 +134,6 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for login_test.test_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Guvitask11Project" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;login_test.test_login&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
     <configuration name="Python tests for login_test.test_migrate_url" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Guvitask11Project" />
       <option name="ENV_FILES" value="" />
@@ -129,10 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for Test_task_13.test_draganddrop.test_draganddrop" />
+        <item itemvalue="Python tests.Python tests for Test_task12.dynamic_xpath_test.test_option1" />
         <item itemvalue="Python tests.Python tests for login_test.test_incorrect_login" />
         <item itemvalue="Python tests.Python tests for login_test.test_browserclose" />
         <item itemvalue="Python tests.Python tests for login_test.test_migrate_url" />
-        <item itemvalue="Python tests.Python tests for login_test.test_login" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +182,23 @@
       <option name="project" value="LOCAL" />
       <updated>1770832037695</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="completed">
+      <option name="closed" value="true" />
+      <created>1770913519179</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1770913519179</updated>
+    </task>
+    <task id="LOCAL-00003" summary="completed">
+      <option name="closed" value="true" />
+      <created>1770915026159</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1770915026159</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -175,7 +214,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="starting" />
-    <option name="LAST_COMMIT_MESSAGE" value="starting" />
+    <MESSAGE value="completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -184,6 +224,11 @@
           <url>file://$PROJECT_DIR$/login_test.py</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Test_task_13/test_draganddrop.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
