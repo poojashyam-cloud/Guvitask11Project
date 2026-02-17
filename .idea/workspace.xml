@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e507bc49-f7b6-4a29-a808-ccb3625b28e5" name="Changes" comment="task 13 completed" />
+    <list default="true" id="e507bc49-f7b6-4a29-a808-ccb3625b28e5" name="Changes" comment="in progress">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_task12/dynamic_xpath_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_task12/dynamic_xpath_test.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +51,10 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python tests.Python tests for Test_task12.dynamic_xpath_test.test_option1.executor": "Run",
+    "Python tests.Python tests for Test_task12.dynamic_xpath_test.test_option2.executor": "Run",
+    "Python tests.Python tests for Test_task12.dynamic_xpath_test.test_option3.executor": "Run",
+    "Python tests.Python tests for Test_task12.dynamic_xpath_test.test_option4.executor": "Run",
+    "Python tests.Python tests for Test_task12.dynamic_xpath_test.test_option5.executor": "Run",
     "Python tests.Python tests for Test_task_13.test_draganddrop.test_draganddrop.executor": "Run",
     "Python tests.Python tests for login_test.test_browserclose.executor": "Run",
     "Python tests.Python tests for login_test.test_incorrect_login.executor": "Run",
@@ -64,10 +71,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\PycharmProject\Guvitask11Project\Test_task_13" />
       <recent name="C:\Users\HP\PycharmProject\Guvitask11Project" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for Test_task_13.test_draganddrop.test_draganddrop">
+  <component name="RunManager" selected="Python tests.Python tests for Test_task12.dynamic_xpath_test.test_option5">
     <configuration name="Python tests for Test_task12.dynamic_xpath_test.test_option1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Guvitask11Project" />
       <option name="ENV_FILES" value="" />
@@ -83,7 +91,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for Test_task_13.test_draganddrop.test_draganddrop" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for Test_task12.dynamic_xpath_test.test_option2" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Guvitask11Project" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -94,11 +102,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;Test_task_13.test_draganddrop.test_draganddrop&quot;" />
+      <option name="_new_target" value="&quot;Test_task12.dynamic_xpath_test.test_option2&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for login_test.test_browserclose" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for Test_task12.dynamic_xpath_test.test_option3" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Guvitask11Project" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -109,11 +117,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;login_test.test_browserclose&quot;" />
+      <option name="_new_target" value="&quot;Test_task12.dynamic_xpath_test.test_option3&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for login_test.test_incorrect_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for Test_task12.dynamic_xpath_test.test_option4" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Guvitask11Project" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -124,11 +132,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;login_test.test_incorrect_login&quot;" />
+      <option name="_new_target" value="&quot;Test_task12.dynamic_xpath_test.test_option4&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for login_test.test_migrate_url" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for Test_task12.dynamic_xpath_test.test_option5" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Guvitask11Project" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -139,17 +147,17 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;login_test.test_migrate_url&quot;" />
+      <option name="_new_target" value="&quot;Test_task12.dynamic_xpath_test.test_option5&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for Test_task_13.test_draganddrop.test_draganddrop" />
+        <item itemvalue="Python tests.Python tests for Test_task12.dynamic_xpath_test.test_option5" />
+        <item itemvalue="Python tests.Python tests for Test_task12.dynamic_xpath_test.test_option4" />
+        <item itemvalue="Python tests.Python tests for Test_task12.dynamic_xpath_test.test_option3" />
+        <item itemvalue="Python tests.Python tests for Test_task12.dynamic_xpath_test.test_option2" />
         <item itemvalue="Python tests.Python tests for Test_task12.dynamic_xpath_test.test_option1" />
-        <item itemvalue="Python tests.Python tests for login_test.test_incorrect_login" />
-        <item itemvalue="Python tests.Python tests for login_test.test_browserclose" />
-        <item itemvalue="Python tests.Python tests for login_test.test_migrate_url" />
       </list>
     </recent_temporary>
   </component>
@@ -200,7 +208,31 @@
       <option name="project" value="LOCAL" />
       <updated>1771157909288</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="task 13 completed">
+      <option name="closed" value="true" />
+      <created>1771158357579</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1771158357579</updated>
+    </task>
+    <task id="LOCAL-00006" summary="in progress">
+      <option name="closed" value="true" />
+      <created>1771260734370</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1771260734370</updated>
+    </task>
+    <task id="LOCAL-00007" summary="in progress">
+      <option name="closed" value="true" />
+      <created>1771266753668</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1771266753668</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -218,7 +250,8 @@
     <MESSAGE value="starting" />
     <MESSAGE value="completed" />
     <MESSAGE value="task 13 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 13 completed" />
+    <MESSAGE value="in progress" />
+    <option name="LAST_COMMIT_MESSAGE" value="in progress" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -232,6 +265,11 @@
           <url>file://$PROJECT_DIR$/Test_task_13/test_draganddrop.py</url>
           <line>5</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Test_task12/dynamic_xpath_test.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
